@@ -1,6 +1,6 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-streamlit==1.38.0
-transformers==4.44.2
-torch==2.4.0
-pandas==2.2.3
-altair==5.4.1
+streamlit
+transformers
+torch
+pandas
+altair
